@@ -1,0 +1,2 @@
+# random_from_mask
+maskからランダムなbit位置を取得する
